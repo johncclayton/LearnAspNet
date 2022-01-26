@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetSparkle\src\NetSparkle.Api.AppCastGenerator\NetSparkle.Api.AppCastGenerator.csproj" />
+    <ProjectReference Include="..\NetSparkle\src\NetSparkle\NetSparkle.csproj" />
+  </ItemGroup>
+
+</Project>

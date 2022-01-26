@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnAspNet", "LearnAspNet\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetSparkle", "NetSparkle\src\NetSparkle\NetSparkle.csproj", "{1956C03C-3011-433D-9A1A-2DD894FC0A63}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetSparkle.Api.AppCastGenerator", "NetSparkle\src\NetSparkle.Api.AppCastGenerator\NetSparkle.Api.AppCastGenerator.csproj", "{487C2785-185B-40B8-A8CB-559F50D03E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecklaceApi", "NecklaceApi\NecklaceApi.csproj", "{E3E16E09-CBB7-4EE8-8863-A17C356A7B04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1956C03C-3011-433D-9A1A-2DD894FC0A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1956C03C-3011-433D-9A1A-2DD894FC0A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1956C03C-3011-433D-9A1A-2DD894FC0A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487C2785-185B-40B8-A8CB-559F50D03E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487C2785-185B-40B8-A8CB-559F50D03E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487C2785-185B-40B8-A8CB-559F50D03E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487C2785-185B-40B8-A8CB-559F50D03E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E16E09-CBB7-4EE8-8863-A17C356A7B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E16E09-CBB7-4EE8-8863-A17C356A7B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E16E09-CBB7-4EE8-8863-A17C356A7B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E16E09-CBB7-4EE8-8863-A17C356A7B04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

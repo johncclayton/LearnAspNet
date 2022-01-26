@@ -1,4 +1,4 @@
 [submodule "NetSparkle"]
 	path = NetSparkle
-	url = git@github.com:johncclayton/NetSparkle.git
+	url = https://github.com/johncclayton/Necklace.git
 	branch = feature/appcast-library
